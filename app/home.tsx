@@ -11,6 +11,8 @@ export default function HomeScreen() {
       <MenuItem label="Profile" onPress={() => router.push('/profile')} />
       <MenuItem label="Settings" />
       <MenuItem label="About" />
+      <MenuItem label="Metal Prices" onPress={() => router.push('/metal-prices')}  />
+      <MenuItem label="Quotes" onPress={() => router.push('/quote')}  />
       <MenuItem
         label="Logout"
         onPress={() => router.replace('/login')}
