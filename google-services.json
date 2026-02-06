@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80355844861",
+    "project_id": "expoauthapp-6dad5",
+    "storage_bucket": "expoauthapp-6dad5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80355844861:android:bd3498f01ea5619cd65494",
+        "android_client_info": {
+          "package_name": "com.tech.ExpoAuthApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSb9ZIJoJ55Bz3mwIStNu7j9VAVGPjt4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
